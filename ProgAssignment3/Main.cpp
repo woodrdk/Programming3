@@ -14,10 +14,10 @@ int main() {
 	
 
 	int howMany = 0;
-	double awnser = 0;
+	float awnser = 0;
 	
 	cout << "We will do a sum for you." << endl
-		<< "How many terms do  you want? ";
+		<< "How many terms do you want? ";
 	cin >> howMany;
 	cout << endl;
 	
